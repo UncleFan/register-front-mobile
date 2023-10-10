@@ -1,0 +1,24 @@
+{
+  "name": "register-front-mobile",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vant": "^4.7.1",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vant/auto-import-resolver": "^1.0.1",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "amfe-flexible": "^2.2.1",
+    "postcss-loader": "^7.3.3",
+    "postcss-pxtorem": "^6.0.0",
+    "unplugin-vue-components": "^0.25.2",
+    "vite": "^4.4.5"
+  }
+}
